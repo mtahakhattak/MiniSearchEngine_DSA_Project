@@ -7,7 +7,6 @@
 | search.h / search.cpp | Module 2 - Search & Ranking | Sagar Kumar |
 | ui.h / ui.cpp | Module 3 - Suggestions & Interface | Deedar Hussain |
 | main.cpp | Starts the program | all |
-| docs/ | Sample .txt documents (add your own) | |
 
 ## Run in VS Code
 1. File > Open Folder... > select `MiniSearchEngine`.
